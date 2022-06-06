@@ -1,4 +1,4 @@
-
+-- https://docs.google.com/spreadsheets/d/1X11q0k9LXxvZLQfV4vCHFr1vuZawAa7i_g8KzbwmswQ/edit#gid=194092940
 with slam_unified as 
 (
 select start_dt activation_dt, reg_cookie, subscription_guid, att_level_up, att_gp slam_show_gp_nm
